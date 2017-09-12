@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     RSSObject rssObject;
 
     //Rss Link
-    private final String RSS_link="http://www.milliyet.com.tr/rss/rssNew/gundemRss.xml";
+    private final String RSS_link="http://www.milliyet.com.tr/rss/rssNew/SonDakikaRss.xml";
     private final String RSS_to_JSON_API="https://api.rss2json.com/v1/api.json?rss_url=";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
