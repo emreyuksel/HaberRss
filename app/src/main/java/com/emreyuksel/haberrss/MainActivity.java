@@ -41,6 +41,10 @@ public class MainActivity extends AppCompatActivity {
         
     }
 
+
+    //Load RSS
+
+
     private void loadRSS() {
 
         AsyncTask<String,String,String> loadRSSAsync = new AsyncTask<String, String, String>() {
